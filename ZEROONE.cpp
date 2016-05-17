@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-//temp
+
 int main()
 {
 	char binaryArray[1000001];
